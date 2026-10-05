@@ -7,6 +7,6 @@ A simple Unix shell written in C. It reads commands from the terminal, parses ar
 Make sure you have GCC and a Unix environment (Linux, macOS, or WSL) installed.
 
 1. Clone the repo and navigate into it:
-   bash
-   git clone [https://github.com/sumeru-cmd/minishell.git](https://github.com/sumeru-cmd/minishell.git)
-   cd minishell
+   ```bash
+   git clone [https://github.com/sumeru-cmd/custom-unix-minishell.git](https://github.com/sumeru-cmd/custom-unix-minishell.git)
+   cd custom-unix-minishell
