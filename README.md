@@ -8,4 +8,4 @@ Make sure you have GCC and a Unix environment (Linux, macOS, or WSL) installed.
 
 1. Clone the repo and navigate into it:
    bash
-   git clone [https://github.com/YOUR_USERNAME/minishell.git](https://github.com/YOUR_USERNAME/minishell.git)
+   git clone [https://github.com/YOUR_USERNAME/minishell.git](https://github.com/sumeru-cmd/minishell.git)
